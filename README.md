@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jovana Baljak
 - 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me https://www.linkedin.com/in/jovana-baljak/
                      joca.baljak@gmail.com
 
